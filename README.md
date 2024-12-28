@@ -13,4 +13,4 @@ This is a simple store app built with Rails. It allows you to manage products an
 
 Run `rails test` to run the tests.
 
-[Documentation](https://guides.rubyonrails.org/v8.0/getting_started.html#directory-structure)
+[Documentation](https://guides.rubyonrails.org/getting_started.html#instance-variables)
